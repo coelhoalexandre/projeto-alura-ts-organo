@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-blue.svg" alt="Completo">
+  <a href="https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
