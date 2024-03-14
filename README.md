@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em progresso-blue.svg" alt="Em Progresso">
+  <a href="https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-blue.svg" alt="Completo">
 
 </div>
 
@@ -12,24 +12,23 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
+- [Layout](#layout)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Nascido do primeiro projeto do Organo, com os mesmos instrutores, [**Paulo Silveira**](https://github.com/peas) e [**Vinicios Neves**](https://github.com/viniciosneves). Esse projeto foca em refatorar o Organo para de JS para TS. Curso: [React: migrando para TypeScript](https://cursos.alura.com.br/course/react-migrando-typescript)
 
 ## Objetivos do Projeto
 
-
+- Entender as principais diferenças entre TS e JS
+- Conhecer as vantagens do TypeScript
+- Integrar componentes React ao TypeScript
 
 ## Funcionalidades do Projeto
 
-
+- A funcionalidade desse projeto se resumir em preencher os dados. Quando clicado para "Criar Card", um novo card surgirá na seção do time respectivo.
+- A diferença de funcionalidades desse projeto para o Organo anterior é o Campo Data, que permite colocar uma data no card, também.
 
 ## Tecnolgias Utilizadas
 
@@ -38,15 +37,9 @@
 3. JS
 4. React
 
-## Layouts
+## Layout
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1280px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/organo-ts-1280px.jpg
 
 ## Autor
 
